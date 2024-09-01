@@ -1,0 +1,190 @@
+*{
+    
+    color:  #4F5863;
+
+}
+button{
+    cursor: pointer;
+    border: none;
+}
+
+.p1{
+    margin-top: 30px;
+}
+.p1 h1{
+    text-align: center;
+    font-size: 60px;
+}
+.p1 button {
+    margin-left: 750px;
+    text-align: center;
+    background-color: #387ed1;
+    height: 55px;
+    width: 165px;
+    font-size: 30px;
+    color: white;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+.p1 button a{
+    
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+    
+}
+.p2
+{
+    
+    text-align: center;
+    background-color: #E1F7F5;
+    margin-top: 50px;
+}
+.p2 h1{
+    font-size: 60px;
+    padding-top: 30px;
+}
+.flex-container{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 30px;
+}
+.container-g1{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-container img{
+    width: 200px;
+}
+
+.p2heading {
+    display: inline-flex;
+    float: left;
+}
+.flexbox{
+    margin-bottom: 50px;
+    box-shadow: 1px 1px 8px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.flexbox h2
+{
+    font-size: 30px;
+    text-align: left;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.flexbox p
+{
+   font-size: 18px;
+   
+    padding-bottom: 2px;
+}
+.flexbox button
+{
+    background-color: #387ed1;
+    width: 100px;
+    height: 40px;
+    margin-right:50px;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.barforpages{
+    margin-top: 20px;
+    margin-left: 120px;
+
+}
+footer{
+    font-family:Proxima Nova ;
+    color: #F5F5F5;
+    background-color: #03071B;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+footer button{
+    background-color: #03071B;
+    color: #F5F5F5; 
+}
+footer h3{
+    font-weight: 600;
+    color: #F5F5F5;
+    margin-bottom: 20px;
+    font-size: 24px;
+    
+
+}
+.socialsbutton{
+    margin-right: 10px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.contact p{
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 400;
+        
+}
+.contact img{
+    height: 25px;
+}
+#explore button{
+    margin-bottom: 20px;
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 400;
+}
+#newsletter p{
+    margin-bottom: 20px;
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 400;
+}
+#newsletter input{
+    margin-bottom: 30px;
+    width: 430px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 0.25px solid #F5F5F5 ;
+    background-color: #03071B;
+    font-family:  Proxima Nova;
+    color:  #4F5863;
+    font-size: 15px;
+     
+}
+#newsletter button{
+    background-color: #0E46A3;
+    color: #F5F5F5;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
+
+.button-container {
+    display: flex;
+    gap: 10px; /* Adds space between buttons */
+}
+
+.button-container button {
+    margin-left: 0; /* Ensure there's no margin on buttons */
+}
+
+

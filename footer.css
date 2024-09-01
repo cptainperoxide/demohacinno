@@ -1,0 +1,78 @@
+button{
+    cursor: pointer;
+    border: none;
+}
+footer{
+    font-family:Proxima Nova ;
+    color: #F5F5F5;
+    background-color: #03071B;
+    margin-top: 00px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+footer button{
+    background-color: #03071B;
+    color: #F5F5F5; 
+}
+footer h3{
+    font-weight: 600;
+    color: #F5F5F5;
+    margin-bottom: 20px;
+    font-size: 24px;
+    
+
+}
+.socialsbutton{
+    margin-right: 10px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.contact p{
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 400;
+        
+}
+.contact img{
+    height: 25px;
+}
+#explore button{
+    margin-bottom: 20px;
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 400;
+}
+#newsletter p{
+    margin-bottom: 20px;
+    color: #F5F5F5;
+    font-size: 16px;
+    font-weight: 400;
+}
+#newsletter input{
+    margin-bottom: 30px;
+    width: 430px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 0.25px solid #F5F5F5 ;
+    background-color: #03071B;
+    font-family:  Proxima Nova;
+    color:  #4F5863;
+    font-size: 15px;
+     
+}
+#newsletter button{
+    background-color: #0E46A3;
+    color: #F5F5F5;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
